@@ -28,18 +28,18 @@ To clone this project, you need [Git](https://git-scm.com) to install on your co
 
 ```zsh
 # Clone this repository
-$ git clone https://github.com/Bongkot-Kladklaen/PHP-Vue.js.git
+$ git clone https://github.com/Bongkot-Kladklaen/PHP-VueJS_CRUD.git
 
 # Go into the repository
-$ cd PHP-Vue
+$ cd PHP-VueJS_CRUD
 ```
 ## Config project
 1. Create database and table :
 
-    Open project `PHP-Vue` find folder: `database>basic_login.sql` and Import file sql to database server for you
+    Open project `PHP-VueJS_CRUD` find folder: `database>basic_login.sql` and Import file sql to database server for you
 2. Config connect database server : 
 
-    Open project `PHP-Vue` find folder: `config>config.php` to config: hostname, username, password, database
+    Open project `PHP-VueJS_CRUD` find folder: `config>config.php` to config: hostname, username, password, database
  
     ```php
         # Config database connect
