@@ -36,7 +36,7 @@ $ cd PHP-VueJS_CRUD
 ## Config project
 1. Create database and table :
 
-    Open project `PHP-VueJS_CRUD` find folder: `database>basic_login.sql` and Import file sql to database server for you
+    Open project `PHP-VueJS_CRUD` find folder: `database>database.sql` and Import file sql to database server for you
 2. Config connect database server : 
 
     Open project `PHP-VueJS_CRUD` find folder: `config>config.php` to config: hostname, username, password, database
